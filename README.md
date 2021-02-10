@@ -34,5 +34,5 @@ We will be evaluating the following:
 Thank you and Good Luck!
 
 ### Submission
-Fork this repository and submit a PR/MR when you are done with your solution.
+Fork this repository and submit a PR/MR when you are done with your solution, make your submission accessible for reviewer.
 If you have any questions at all regarding the test, please create an issue in the master repo. Thank you!
