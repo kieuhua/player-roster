@@ -59,11 +59,32 @@ When change .env, need to restart the client, npm start
 ````
 add padding m={3} or p={3} and centeralize <Card> 
 ````
-### 10. remain issues 
+
+### 10. Add Active and Inactive feature
+```
+add onActive handler in Players.js
+add onClick() handler to Active Button in Filters.jsx
+```
+
+### 11. Add Select State feature
+```
+add onState handler in Players.js
+add onChange() handler to Select in Filters.jsx
+```
+### 12. Add Clear feature
+```
+add onClear handler in Players.jss
+add onClick() handler to Clear button in Filters.jsx
+```
+### 13. future work for Filters.jsx
+```
+Clear button didn't clear the state name
+```
+### 14. remain issues about theme
 ````
 not clear about how to use theme prop in App.js
 ````
-### 11. player-roster-works.md in docs/
+### 14 player-roster-works.md in docs/
 ````
-player-roster-works.md, fetch_cloud.png, fetch_server.png
+player-roster-works.md, fetch_cloud.png, Filter_By_Alaska.png Filter_By_Alaska_inactive.png Filter_By_Clear.png Filter_By_Inactive.png fetch_server.png
 ````
